@@ -1,2 +1,3 @@
 # NEXA-FT
 This all for future.....
+- [2025-03-19T09:16:35] style: enhance README formatting and badge definitions
