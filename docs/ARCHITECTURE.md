@@ -8,3 +8,4 @@
 <!-- [2025-02-27T22:37:02] docs: update system architecture details -->
 <!-- [2025-03-11T17:04:15] docs: update system architecture details -->
 <!-- [2025-07-16T10:09:14] docs: update system architecture details -->
+<!-- [2025-08-12T16:24:45] docs: update system architecture details -->
