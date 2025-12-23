@@ -7,3 +7,4 @@
 - [2026-05-13T11:32:00] docs: update local setup and development workflow steps
 <!-- [2025-03-26T20:33:31] docs: refine local setup instructions -->
 <!-- [2025-09-10T18:28:27] docs: refine local setup instructions -->
+<!-- [2025-12-23T21:00:25] docs: refine local setup instructions -->
