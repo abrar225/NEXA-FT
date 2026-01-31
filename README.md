@@ -10,3 +10,4 @@ This all for future.....
 - [2025-12-30T09:42:37] style: enhance README formatting and badge definitions
 - [2026-01-12T15:05:29] docs(readme): improve documentation notes and usage guidelines
 - [2026-01-22T16:45:01] style: enhance README formatting and badge definitions
+- [2026-01-31T16:47:53] style: enhance README formatting and badge definitions
