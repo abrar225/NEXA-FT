@@ -10,3 +10,4 @@ This all for future.....
 <!-- [2025-09-07T22:39:07] docs(readme): update project documentation and overview -->
 <!-- [2026-01-19T13:52:26] docs(readme): update project documentation and overview -->
 <!-- [2026-01-23T18:10:46] docs(readme): update project documentation and overview -->
+<!-- [2026-02-11T18:33:10] style: improve formatting and badge alignment -->
