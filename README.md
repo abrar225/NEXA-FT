@@ -14,3 +14,4 @@ This all for future.....
 <!-- [2026-02-19T16:06:57] docs(readme): update project documentation and overview -->
 <!-- [2026-02-28T22:13:19] style: improve formatting and badge alignment -->
 <!-- [2026-03-05T09:17:58] style: improve formatting and badge alignment -->
+<!-- [2026-04-21T17:43:14] docs(readme): update project documentation and overview -->
