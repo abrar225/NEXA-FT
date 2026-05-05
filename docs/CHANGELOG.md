@@ -8,3 +8,4 @@
 - [2025-10-24T15:49:44] docs(changelog): update release notes and revision log
 - [2025-12-30T10:30:52] fix: resolve minor edge cases in configuration parsing
 - [2026-01-26T20:20:45] fix: resolve minor edge cases in configuration parsing
+- [2026-05-05T17:38:52] docs(changelog): update release notes and revision log
