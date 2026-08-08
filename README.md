@@ -19,3 +19,5 @@ This all for future.....
 <!-- [2026-07-18T15:58:12] docs(readme): update project documentation and overview -->
 <!-- [2026-07-27T21:23:25] style: improve formatting and badge alignment -->
 <!-- [2026-07-31T11:55:03] docs(readme): update project documentation and overview -->
+
+<!-- PR Update #35: style: improve formatting and badge alignments -->
